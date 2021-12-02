@@ -1,5 +1,5 @@
 # Hades-linkchecker
-Tool for find a admin page
+Tool for link life or death
 
 $ pkg install python2
 
